@@ -1,0 +1,263 @@
+{
+  "nav": {
+    "why": "Why a Website",
+    "services": "Services",
+    "process": "My Process",
+    "caseStudies": "Case Studies",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Build My Website"
+  },
+  "hero": {
+    "eyebrow": "Website Partner for Maharashtra Businesses",
+    "title": "Helping Maharashtra Businesses Build Their Digital Presence",
+    "subhead": "Professional, mobile-friendly, and SEO-optimized websites that improve your visibility on Google, build trust with customers, and help your business grow online.",
+    "ctaPrimary": "Build My Website",
+    "ctaSecondary": "See My Process",
+    "badge": "Deonar, Mumbai — Locally Focused, Globally Built"
+  },
+  "whyNeed": {
+    "title": "Why Your Business Needs a Website Now",
+    "subtitle": "Word-of-mouth is great, but a professional website ensures you don't lose customers who search online before buying.",
+    "reasons": [
+      {
+        "title": "Digital Storefront",
+        "desc": "Your website is your online storefront. It is the central hub where you drive all traffic from social media, email marketing, and organic local search."
+      },
+      {
+        "title": "Credibility and Trust",
+        "desc": "A professional website acts as your digital calling card. It showcases verified client testimonials and success stories to build immediate trust."
+      },
+      {
+        "title": "24/7 Accessibility",
+        "desc": "Your website runs around the clock, answering FAQs, promoting your services, and capturing enquiries even when your physical office is closed."
+      },
+      {
+        "title": "Cost-Effective SEO",
+        "desc": "By ranking organically for high-intent local search keywords on Google, your website lowers your client acquisition cost compared to paid ads."
+      },
+      {
+        "title": "Targeted Messaging",
+        "desc": "Tailor your messaging to your precise audience. Use custom-designed landing pages and clean calls-to-action to turn visitors into buyers."
+      },
+      {
+        "title": "Data-Driven Insights",
+        "desc": "Connect Google Analytics to collect valuable insights on visitor behavior and demographics, helping you refine your growth strategy continuously."
+      }
+    ],
+    "statText": "Most customers research a business online before contacting them or visiting in person."
+  },
+  "howGrow": {
+    "title": "How a Website Grows Your Business",
+    "subtitle": "A professional website isn't an expense; it's an asset that brings you customers.",
+    "points": [
+      {
+        "title": "Attract Local Mumbai & Maharashtra Customers",
+        "desc": "Rank for high-intent keywords like 'services near me' or 'expert in Mumbai' to capture customers looking for your exact business."
+      },
+      {
+        "title": "Increase Enquiries Automatically",
+        "desc": "We integrate simple, conversational forms that make it extremely easy for a potential client to drop their name and phone number."
+      },
+      {
+        "title": "Provide a Professional Brand Image",
+        "desc": "Stand tall against competitors who only use social media or don't have an online presence. A fast website makes you look like a leader."
+      },
+      {
+        "title": "Frictionless WhatsApp Chat Setup",
+        "desc": "Direct integration lets visitors start a WhatsApp conversation with one click, turning casual browsers into paying customers immediately."
+      }
+    ]
+  },
+  "services": {
+    "title": "Professional Web Services",
+    "subtitle": "Everything you need to establish, secure, and grow your digital footprint.",
+    "contactQuote": "Contact for a Quotation",
+    "list": [
+      {
+        "title": "Business Websites",
+        "desc": "Tailor-made, responsive, and blazing fast websites crafted for service businesses, retail shops, and local practitioners."
+      },
+      {
+        "title": "SEO Setup",
+        "desc": "Targeted optimization to help your business appear on Google Search when local customers look for your services."
+      },
+      {
+        "title": "Google Business Profile",
+        "desc": "Complete setup and optimization to link your website, map pins, and reviews together to boost local search rankings."
+      },
+      {
+        "title": "WhatsApp Integration",
+        "desc": "Direct chat links and call-to-action buttons designed to start WhatsApp inquiries smoothly and increase conversion rates."
+      },
+      {
+        "title": "Secure Enquiry Forms",
+        "desc": "Interactive forms that filter spam and securely capture visitor name, phone number, and requirements directly."
+      },
+      {
+        "title": "Hosting & Domain Guidance",
+        "desc": "Assistance in purchasing the perfect domain and hosting configuration on cloud networks like Vercel with no hidden charges."
+      },
+      {
+        "title": "Performance Optimization",
+        "desc": "Speed enhancement ensuring your website loads in under 2 seconds, preventing customers from bouncing to competitors."
+      },
+      {
+        "title": "Continuous Maintenance",
+        "desc": "Regular updates, automated backups, and ongoing security audits to keep your website safe and operating 24/7."
+      }
+    ]
+  },
+  "process": {
+    "title": "My Transparent Process",
+    "subtitle": "No complex technical jargon. Simple, milestones-based development where you stay in control.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Advance Payment",
+        "desc": "A small deposit secures your schedule slot. We discuss your business goals, draft a project outline, and start the layout design."
+      },
+      {
+        "num": "02",
+        "title": "Website Development",
+        "desc": "We build a fully responsive, highly optimized, secure code prototype of your website utilizing clean modern web frameworks."
+      },
+      {
+        "num": "03",
+        "title": "Review & Preview",
+        "desc": "We provide you a private, clickable staging link to browse your website on mobile and desktop, verifying every section."
+      },
+      {
+        "num": "04",
+        "title": "Refinements & Revisions",
+        "desc": "Based on your feedback, we refine content, swap images, adjust colors, and tune features until you are 100% satisfied."
+      },
+      {
+        "num": "05",
+        "title": "Go Live & Support",
+        "desc": "We link your domain, publish your site, verify search console tags, and deliver 1 year of complimentary deployment support."
+      }
+    ]
+  },
+  "trust": {
+    "speed": "Fast Loading",
+    "seo": "SEO Optimized",
+    "mobile": "Mobile Responsive",
+    "secure": "Secure HTTPS",
+    "whatsapp": "WhatsApp Support",
+    "delivery": "5–7 Days Delivery"
+  },
+  "caseStudies": {
+    "title": "Digital Growth Stories",
+    "subtitle": "Illustrative examples based on local business patterns showing how Mumbai companies benefit from a professional digital presence.",
+    "tagProblem": "The Problem",
+    "tagSolution": "What We Built",
+    "tagOutcome": "The Outcome",
+    "list": [
+      {
+        "type": "Retail & Local Commerce",
+        "title": "Local Kirana & Provisions Store",
+        "problem": "Dependent entirely on physical walk-ins in a crowded Deonar market; losing grocery orders to large-scale home delivery apps.",
+        "solution": "A lightweight digital catalog website with instant 'Order on WhatsApp' buttons and structured local Google Map rankings.",
+        "outcome": "Over 45% increase in monthly home-delivery orders placed directly via local neighborhood searches on Google Maps."
+      },
+      {
+        "type": "Professional Services",
+        "title": "Boutique Mumbai Hair & Beauty Salon",
+        "problem": "Staff remained idle during weekdays; phone lines were frequently busy during weekends, resulting in missed appointments.",
+        "solution": "A minimal, aesthetic portfolio page showcasing services, price sheets, reviews, and a 24/7 automated WhatsApp booking form.",
+        "outcome": "Bookings became evenly distributed throughout the week; customer inquiries via Google tripled within 60 days."
+      },
+      {
+        "type": "Home Improvement",
+        "title": "Electrical & Plumbing Service Partner",
+        "problem": "Struggling to find high-paying corporate and residential contracts through traditional pamphlets and offline brochures.",
+        "desc": "A professional service portfolio emphasizing credentials, past site-photos, standard commercial rates, and direct call CTAs.",
+        "solution": "Built an optimized landing page linked to Google Business Profile, targeting local Deonar and Chembur business hubs.",
+        "outcome": "Secured 8 steady commercial maintenance contracts in the first 3 months from local building associations."
+      }
+    ]
+  },
+  "about": {
+    "title": "Meet Your Digital Partner",
+    "subtitle": "B2B mindset, transparent work, and clean coding practices.",
+    "p1": "Hi, I'm Kshitij. I build high-performance websites for businesses across Maharashtra from my home office in Deonar, Mumbai.",
+    "p2": "I don't look at websites as digital art pieces or playground side-projects. I look at them as growth engines. My focus is on technical excellence: lightning-fast page speeds, strong search optimization, clean mobile layouts, and high-conversion layouts that convince visitors to trust you.",
+    "p3": "If you work with me, there are no hidden agency layers, no fake metrics, and no complex jargon. You get direct, honest communication and a committed digital partner who wants to see your local business succeed in the modern internet era."
+  },
+  "leadMagnet": {
+    "title": "Get a Free Homepage Mockup",
+    "subtitle": "Not sure how your business would look online? I will design a custom interactive mockup of your new homepage completely free — no commitment required.",
+    "cta": "Request Free Mockup",
+    "includes": [
+      "No obligation, zero hidden fees",
+      "Tailored layout with your brand logo & colors",
+      "15-minute phone consultation call included",
+      "Hosting & deployment strategy breakdown"
+    ]
+  },
+  "enquiry": {
+    "title": "Let's Build Your Website",
+    "subtitle": "Fill out this form, and I will get back to you within 24 hours to discuss how we can grow your business online.",
+    "name": "Your Name",
+    "businessName": "Business Name",
+    "phone": "Phone / WhatsApp Number",
+    "email": "Email Address",
+    "city": "City / Location",
+    "serviceNeeded": "What do you need?",
+    "servicePlaceholder": "Select a service...",
+    "opt1": "New Professional Website",
+    "opt2": "Redesign Existing Website",
+    "opt3": "SEO & Google Business Setup",
+    "opt4": "General Consultation / Not Sure Yet",
+    "message": "Tell me about your business (Optional)",
+    "submit": "Request Consultation & Mockup",
+    "submitting": "Submitting details...",
+    "or": "OR CHAT INSTANTLY ON WHATSAPP",
+    "whatsappBtn": "Chat on WhatsApp (+91 93254 90242)",
+    "success": "Thank you! Your enquiry has been received successfully. Kshitij will get back to you within 24 hours.",
+    "error": "Something went wrong. Please check your network or reach out directly on WhatsApp.",
+    "note": "We take your privacy seriously. Your details are secure and will never be shared."
+  },
+  "cookie": {
+    "title": "Privacy Settings",
+    "text": "This website uses secure, privacy-compliant analytical cookies (Google Analytics 4 & Vercel) to understand visitor engagement. We respect your choice and do not track unless you accept.",
+    "accept": "Accept Tracking",
+    "decline": "Decline"
+  },
+  "faq": {
+    "title": "SEO & Digital Growth FAQs",
+    "subtitle": "Clear, direct answers about local search visibility, website trust, and how we help Maharashtra businesses acquire clients.",
+    "questions": [
+      {
+        "q": "What is local SEO and why is it crucial for my business?",
+        "a": "Local SEO (Search Engine Optimization) optimizes your online presence so that customers in specific geographical areas (like Deonar, Mumbai, or Pune) can easily find you. When they search on Google for 'services near me' or 'expert web developers in Deonar', an optimized website ensures your business appears at the very top of Google Search and Google Maps."
+      },
+      {
+        "q": "How does a professional website build trust compared to a social media page?",
+        "a": "While social media is great for quick updates, anyone can create a free profile. A professional, custom-built website with your own domain (like .com or .in) serves as your official digital storefront. It showcases verified testimonials, detailed portfolios, and structured services, instantly proving to potential clients that you are a reliable and serious business."
+      },
+      {
+        "q": "Will my website work properly on mobile phones and slow internet?",
+        "a": "Absolutely. Over 70% of local customers search for businesses on mobile devices. I build lightweight, responsive websites using modern technologies (React + Tailwind) that load in under 2 seconds, even on slower 4G networks, ensuring you never lose customers due to performance lags."
+      },
+      {
+        "q": "Can you integrate tools like Google Business Profile and Google Analytics?",
+        "a": "Yes. Every website is built to be a full-scale growth asset. I configure and optimize your Google Business Profile (Google Maps) to sync perfectly with your site, and integrate privacy-compliant Google Analytics 4 so you can track where your visitors are coming from and what they are looking for."
+      },
+      {
+        "q": "How do payments work and what are the terms?",
+        "a": "I believe in 100% transparent pricing with zero complex jargon. We start with a small, clear advance deposit (in ₹) to lock in your schedule slot, and the remainder is divided into transparent, milestone-based payments. You review and approve the progress every step of the way before paying."
+      }
+    ]
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "Building trusted digital growth assets for local businesses across Mumbai and Maharashtra.",
+    "details": "Contact Details",
+    "quickLinks": "Quick Navigation",
+    "languages": "Select Language",
+    "location": "Deonar, Mumbai – 400088, Maharashtra, India",
+    "hours": "Working Hours: Mon - Sat, 10:00 AM - 7:00 PM"
+  }
+}
